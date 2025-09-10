@@ -1,5 +1,4 @@
 package Practica_1;
-import java.util.Scanner;
 
 public class EcuacionLineal {
     private double a, b, c, d, e, f;

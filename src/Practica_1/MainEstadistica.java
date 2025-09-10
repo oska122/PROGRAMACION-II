@@ -2,7 +2,7 @@ package Practica_1;
 
 public class MainEstadistica {
     public static void main(String[] args) {
-        // Datos fijos (sin Scanner)
+
         double[] numeros = {1.9, 2.5, 3.7, 2, 1, 6, 3, 4, 5, 2};
 
         Estadistica est = new Estadistica(numeros);
